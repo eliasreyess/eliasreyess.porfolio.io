@@ -15,19 +15,18 @@ ereyesgo@gmu.edu
 **Motility-Induced Phase Separation and Chemotaxis for Swarm Payload Transport**  
 *George Mason University | Jan 2025 – May 2025*
 
-- Developed an agent-based swarm robotics model in NetLogo incorporating Vicsek alignment, chemotactic gradients, and MIPS behavior.
-- Executed large-scale parameter sweeps using BehaviorSpace to identify regimes enabling reliable decentralized payload transport.
-
 ---
 
 ##  Engineering & Industry Experience
 
 ### Fabrication Lab Intern  
 **Northern Virginia Community College | Aug 2024 – Dec 2024**
+
 ---
 
 ### Engineering Intern  
 **Fairfax Water | Summer 2024**
+
 ---
 
 ### Quality Control Foreman  
@@ -37,7 +36,7 @@ ereyesgo@gmu.edu
 ##  Education
 
 ### George Mason University  
-**B.S. Mechanical Engineering** *(In progress)*  
+**B.S. Mechanical Engineering** 
 *Jan 2025 – Present*  
 - RISE Scholar — Summer 2025
 
@@ -46,8 +45,6 @@ ereyesgo@gmu.edu
 *Dec 2024*  
 - NOVA CORE Scholar  
 - S-STEM Spring 2024 Cohort  
-- CCAMPIS Work-Study  
-- COVID Vaccination Campaign Volunteer  
 
 ---
 # Projects

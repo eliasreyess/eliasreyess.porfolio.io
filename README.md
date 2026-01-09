@@ -3,13 +3,13 @@
 
 Mechanical Engineering student with hands-on experience in **robotics, swarm dynamics, simulation, and fabrication**. Strong background in computational modeling, experimental validation, and engineering design, with interests spanning autonomous systems, nonlinear dynamics, and advanced manufacturing.
 
-📍 Alexandria, VA  
-📧 ereyesgo@gmu.edu  
-📞 (540) 481-5207  
+Alexandria, VA  
+ereyesgo@gmu.edu  
+(540) 481-5207  
 
 ---
 
-## 🔬 Research Experience
+##  Research Experience
 
 ### RISE Undergraduate Researcher  
 **Motility-Induced Phase Separation and Chemotaxis for Swarm Payload Transport**  
@@ -22,7 +22,7 @@ Mechanical Engineering student with hands-on experience in **robotics, swarm dyn
 
 ---
 
-## 🏭 Engineering & Industry Experience
+##  Engineering & Industry Experience
 
 ### Fabrication Lab Intern  
 **Northern Virginia Community College | Aug 2024 – Dec 2024**
@@ -51,7 +51,7 @@ Mechanical Engineering student with hands-on experience in **robotics, swarm dyn
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### George Mason University  
 **B.S. Mechanical Engineering** *(In progress)*  
@@ -84,12 +84,6 @@ Mechanical Engineering student with hands-on experience in **robotics, swarm dyn
 
 ---
 
-## 📜 Certifications
-- Microsoft Office Suite Certification  
-- Forklift Certification  
-
----
-
 ## 🔭 Interests
 - Robotics & autonomous systems  
 - Swarm intelligence and nonlinear dynamics  
@@ -99,7 +93,7 @@ Mechanical Engineering student with hands-on experience in **robotics, swarm dyn
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 - Autonomous Mobile Robot (ROS 2, LiDAR, Sonar, Raspberry Pi, NVIDIA Jetson)
 - Small-Scale 3D-Printed Wind Tunnel (NASA-based design equations)
 - Swarm Robotics Payload Transport Simulation

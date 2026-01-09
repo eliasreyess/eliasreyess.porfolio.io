@@ -31,6 +31,7 @@ ereyesgo@gmu.edu
 
 ### Quality Control Foreman  
 **Cleveland Construction Inc. | Apr 2019 – Dec 2021**
+
 ---
 
 ##  Education

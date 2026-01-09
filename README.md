@@ -1,7 +1,7 @@
 
 # Elias A. Reyes — Engineering Portfolio
 
-Mechanical Engineering student with hands-on experience in **robotics, swarm dynamics, simulation, and fabrication**.
+I have hands-on experience in **robotics, swarm dynamics, simulation, and fabrication**.
 
 Alexandria, VA  
 ereyesgo@gmu.edu  
@@ -13,7 +13,6 @@ ereyesgo@gmu.edu
 
 ### RISE Undergraduate Researcher  
 **Motility-Induced Phase Separation and Chemotaxis for Swarm Payload Transport**  
-*George Mason University | Jan 2025 – May 2025*
 
 ---
 

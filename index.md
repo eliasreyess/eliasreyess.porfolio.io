@@ -106,7 +106,7 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
 <div class="projects-grid">
 
   <a class="project-card" href="/projects/project-1/">
-    <img class="project-thumb" src="/assets/img/project-1.jpg" alt="Project 1 thumbnail">
+    <img class="project-thumb" src="assets/img/RISE/backup of newbaseline view.png" alt="Project 1 thumbnail">
     <div class="project-body">
       <h3 class="project-title">Project Title #1</h3>
       <p class="project-desc">One sentence: what it is + what you did.</p>

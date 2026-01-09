@@ -17,6 +17,7 @@ ereyesgo@gmu.edu
 
 - Developed an agent-based swarm robotics model in NetLogo incorporating Vicsek alignment, chemotactic gradients, and MIPS behavior.
 - Executed large-scale parameter sweeps using BehaviorSpace to identify regimes enabling reliable decentralized payload transport.
+
 ---
 
 ##  Engineering & Industry Experience

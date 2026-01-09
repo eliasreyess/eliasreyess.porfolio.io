@@ -1,4 +1,4 @@
-# eliasreyess.porfolio.io
+
 # Elias A. Reyes — Engineering Portfolio
 
 Mechanical Engineering student with hands-on experience in **robotics, swarm dynamics, simulation, and fabrication**. Strong background in computational modeling, experimental validation, and engineering design, with interests spanning autonomous systems, nonlinear dynamics, and advanced manufacturing.
@@ -68,7 +68,7 @@ ereyesgo@gmu.edu
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 **Programming & Simulation**
 - C++, Python, MATLAB
@@ -84,7 +84,7 @@ ereyesgo@gmu.edu
 
 ---
 
-## 🔭 Interests
+##  Interests
 - Robotics & autonomous systems  
 - Swarm intelligence and nonlinear dynamics  
 - Additive manufacturing  

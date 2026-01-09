@@ -6,26 +6,6 @@ description: >
 author: Elias A. Reyes
 email: ereyesgo@gmu.edu
 
-url: "https://YOUR-USERNAME.github.io"
-baseurl: ""
 
-theme: minima
+theme: jekyll-theme-minima
 
-markdown: kramdown
-highlighter: rouge
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-header_pages:
-  - index.md
-
-show_excerpts: false
-
-minima:
-  skin: classic
-
-social_links:
-  github: YOUR-USERNAME
-  linkedin: YOUR-LINKEDIN-USERNAME

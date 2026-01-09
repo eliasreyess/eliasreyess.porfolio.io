@@ -102,3 +102,32 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
   </a>
 
 </div>
+
+<div class="projects-grid">
+
+  <a class="project-card" href="/projects/project-1/">
+    <img class="project-thumb" src="/assets/img/project-1.jpg" alt="Project 1 thumbnail">
+    <div class="project-body">
+      <h3 class="project-title">Project Title #1</h3>
+      <p class="project-desc">One sentence: what it is + what you did.</p>
+      <div class="project-tags">
+        <span class="project-tag">ROS2</span>
+        <span class="project-tag">CAD</span>
+        <span class="project-tag">Controls</span>
+      </div>
+    </div>
+  </a>
+
+  <a class="project-card" href="/projects/project-2/">
+    <img class="project-thumb" src="/assets/img/project-2.jpg" alt="Project 2 thumbnail">
+    <div class="project-body">
+      <h3 class="project-title">Project Title #2</h3>
+      <p class="project-desc">One sentence: problem + solution + impact.</p>
+      <div class="project-tags">
+        <span class="project-tag">MATLAB</span>
+        <span class="project-tag">Simulation</span>
+      </div>
+    </div>
+  </a>
+
+</div>

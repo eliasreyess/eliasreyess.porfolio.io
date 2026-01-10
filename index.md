@@ -75,7 +75,7 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
 </style>
 
 <div class="projects-grid">
-  <a class="project-card" href="/projects/project-1/">
+  <a class="project-card" href="https://eliasreyess.github.io/Swarm-Payload-Transport-Research-project-/">
     <img class="project-thumb" src="assets/gif/giphy.gif" alt="Project 1 thumbnail">
     <div class="project-body">
       <h3 class="project-title">Emergence in swarm systems</h3>

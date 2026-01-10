@@ -89,7 +89,7 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
   </a>
 
   <a class="project-card" href="/projects/project-2/">
-    <img class="project-thumb" src="/assets/img/project-2.jpg" alt="Project 2 thumbnail">
+    <img class="project-thumb" src="https://eliasreyess.github.io/Swarm-Payload-Transport-Research-project-/" alt="Project 2 thumbnail">
     <div class="project-body">
       <h3 class="project-title">Project Title #2</h3>
       <p class="project-desc">One sentence: problem + solution + impact.</p>

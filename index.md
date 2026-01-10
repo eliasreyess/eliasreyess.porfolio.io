@@ -75,16 +75,15 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
 </style>
 
 <div class="projects-grid">
-
   <a class="project-card" href="/projects/project-1/">
-    <img class="project-thumb" src="/assets/img/project-1.jpg" alt="Project 1 thumbnail">
+    <img class="project-thumb" src="assets/gif/giphy.gif" alt="Project 1 thumbnail">
     <div class="project-body">
-      <h3 class="project-title">Project Title #1</h3>
-      <p class="project-desc">One sentence: what it is + what you did.</p>
+      <h3 class="project-title">Emergence in swarm systems</h3>
+      <p class="project-desc">Investigated how MIPS and chemotaxis influence swarm dynamics.</p>
       <div class="project-tags">
-        <span class="project-tag">ROS2</span>
-        <span class="project-tag">CAD</span>
-        <span class="project-tag">Controls</span>
+        <span class="project-tag">Netlogo</span>
+        <span class="project-tag">Emergence</span>
+        <span class="project-tag">Active Matter physics</span>
       </div>
     </div>
   </a>
@@ -100,23 +99,10 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
       </div>
     </div>
   </a>
-
+  ###
 </div>
 
-<div class="projects-grid">
 
-  <a class="project-card" href="/projects/project-1/">
-    <img class="project-thumb" src="assets/gif/giphy.gif" alt="Project 1 thumbnail">
-    <div class="project-body">
-      <h3 class="project-title">Project Title #1</h3>
-      <p class="project-desc">One sentence: what it is + what you did.</p>
-      <div class="project-tags">
-        <span class="project-tag">ROS2</span>
-        <span class="project-tag">CAD</span>
-        <span class="project-tag">Controls</span>
-      </div>
-    </div>
-  </a>
 
   <a class="project-card" href="/projects/project-2/">
     <img class="project-thumb" src="/assets/img/project-2.jpg" alt="Project 2 thumbnail">

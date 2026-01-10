@@ -88,14 +88,15 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
     </div>
   </a>
 
-  <a class="project-card" href="/projects/project-2/">
-    <img class="project-thumb" src="https://eliasreyess.github.io/Swarm-Payload-Transport-Research-project-/" alt="Project 2 thumbnail">
+  <a class="project-card" href="https://eliasreyess.github.io/Two-stage-gearbox-desing/">
+    <img class="project-thumb" src="assets/demo_trimmed.gif" alt="Project 2 thumbnail">
     <div class="project-body">
-      <h3 class="project-title">Project Title #2</h3>
-      <p class="project-desc">One sentence: problem + solution + impact.</p>
+      <h3 class="project-title">Gearbox </h3>
+      <p class="project-desc">Design, simulation and manufacturing of a two stage gearbox</p>
       <div class="project-tags">
         <span class="project-tag">MATLAB</span>
-        <span class="project-tag">Simulation</span>
+        <span class="project-tag">Simulink</span>
+        <span class="project-tag">Inventor</span>
       </div>
     </div>
   </a>

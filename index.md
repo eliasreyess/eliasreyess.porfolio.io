@@ -105,11 +105,11 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
 
 
 
-  <a class="project-card" href="/projects/project-2/">
-    <img class="project-thumb" src="/assets/img/project-2.jpg" alt="Project 2 thumbnail">
+  <a class="project-card" href="https://eliasreyess.github.io/Telescope-mount-tracking-retrofit-/">
+    <img class="project-thumb" src="/assets/img/proto22.png" alt="Project 2 thumbnail">
     <div class="project-body">
-      <h3 class="project-title">Project Title #2</h3>
-      <p class="project-desc">One sentence: problem + solution + impact.</p>
+      <h3 class="project-title">Project Title #3</h3>
+      <p class="project-desc">Telescope mount tracking retrofit</p>
       <div class="project-tags">
         <span class="project-tag">MATLAB</span>
         <span class="project-tag">Simulation</span>

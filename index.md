@@ -100,8 +100,7 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
       </div>
     </div>
   </a>
-  ###
-</div>
+<div class="projects-grid">
 
 
 
@@ -115,6 +114,7 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
         <span class="project-tag">Simulation</span>
       </div>
     </div>
+    
   </a>
 
    <a class="project-card" href="https://eliasreyess.github.io/Telescope-mount-tracking-retrofit-/">

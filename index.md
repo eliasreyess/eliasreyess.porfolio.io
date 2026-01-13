@@ -38,7 +38,7 @@ In this page you will find some of my academic acomplishments as well as work ex
 
 ---
 
-## Projects
+## Projects & Research 
 Welcome to my porfolio! here are some of the projects I have worked on during my time in school.
 <style>
   .projects-grid{

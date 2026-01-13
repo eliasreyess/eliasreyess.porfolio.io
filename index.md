@@ -22,8 +22,7 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
 - NOVA CORE Scholar  
 - S-STEM Scholar (Spring 2024 Cohort)  
 - CCAMPIS work-study  
-- COVID-19 vaccination campaign volunteer  
-
+ 
 ---
 
 ## Work Experience
@@ -34,22 +33,13 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
 
 **Fabrication Lab Intern** — Manassas, VA (Aug 2024 – Dec 2024)  
 **Northern Virginia Community College**  
-- Calibrated and maintained laser cutting equipment  
-- Assisted with material preparation, job setup, and job execution  
-- Supported supervision and training of other students  
 
 **Engineering Intern** — Fairfax, VA (Summer 2024)  
 **Fairfax Water**  
-- Recorded operational data from SCADA dashboards across multiple facilities  
-- Supported data analysis for an EPA lead reduction initiative  
-- Performed walk-through inspections of pump stations  
-- Assisted with preventive maintenance of facility sensors  
 
 **Quality Control Foreman** — Largo, MD (Apr 2019 – Dec 2021)  
 **Cleveland Construction Inc.**  
-- Scheduled repair work and supervised QC crews to meet contract specifications  
-- Ordered materials and planned distribution to maintain steady workflow  
-- Served as point of contact with county inspectors  
+
 ---
 
 ## Projects

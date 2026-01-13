@@ -5,7 +5,8 @@ title: Elias A. Reyes — Engineering Portfolio
 
 # Elias A. Reyes — Engineering Portfolio
 
-I have hands-on experience in **robotics, swarm dynamics, simulation, and fabrication**.
+Hi there! thank you for taking the time to review my site. I have hands-on experience in **robotics, swarm dynamics, simulation, and fabrication**.
+In this page you will find some of my academic acomplishments as well as work experience and some of my projects.
 
 **Alexandria, VA**  
 **Email:** ereyesgo@gmu.edu  
@@ -15,21 +16,16 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
 
 **George Mason University** — Fairfax, VA  
 **B.S. Mechanical Engineering** (Jan 2025 – Present)  
-- RISE Scholar (Summer 2025)
 
 **Northern Virginia Community College** — Annandale, VA  
 **A.S. Engineering** (Dec 2024)  
-- NOVA CORE Scholar  
-- S-STEM Scholar (Spring 2024 Cohort)  
-- CCAMPIS work-study  
- 
+
 ---
 
 ## Work Experience
 
 **RISE Undergraduate Researcher** — Fairfax, VA (Jan 2025 – May 2025)  
 **Motility Induced Phase Separation and Chemotaxis for Swarm Payload Transport**  
-- Developed an agent-based model in NetLogo to simulate swarm robotics behavior using Vicsek alignment, chemotactic gradients, and MIPS  
 
 **Fabrication Lab Intern** — Manassas, VA (Aug 2024 – Dec 2024)  
 **Northern Virginia Community College**  

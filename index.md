@@ -75,15 +75,16 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
 </style>
 
 <div class="projects-grid">
+
   <a class="project-card" href="https://eliasreyess.github.io/Swarm-Payload-Transport-Research-project-/">
     <img class="project-thumb" src="assets/gif/giphy.gif" alt="Project 1 thumbnail">
     <div class="project-body">
-      <h3 class="project-title">Emergence in swarm systems</h3>
+      <h3 class="project-title">Emergence in Swarm Systems</h3>
       <p class="project-desc">Investigated how MIPS and chemotaxis influence swarm dynamics.</p>
       <div class="project-tags">
-        <span class="project-tag">Netlogo</span>
+        <span class="project-tag">NetLogo</span>
         <span class="project-tag">Emergence</span>
-        <span class="project-tag">Active Matter physics</span>
+        <span class="project-tag">Active Matter Physics</span>
       </div>
     </div>
   </a>
@@ -91,8 +92,8 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
   <a class="project-card" href="https://eliasreyess.github.io/Two-stage-gearbox-desing/">
     <img class="project-thumb" src="assets/demo_trimmed.gif" alt="Project 2 thumbnail">
     <div class="project-body">
-      <h3 class="project-title">Gearbox </h3>
-      <p class="project-desc">Design, simulation and manufacturing of a two stage gearbox</p>
+      <h3 class="project-title">Two-Stage Gearbox</h3>
+      <p class="project-desc">Design, simulation, and manufacturing of a two-stage gearbox.</p>
       <div class="project-tags">
         <span class="project-tag">MATLAB</span>
         <span class="project-tag">Simulink</span>
@@ -100,31 +101,27 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
       </div>
     </div>
   </a>
-<div class="projects-grid">
-
-
 
   <a class="project-card" href="https://eliasreyess.github.io/Telescope-mount-tracking-retrofit-/">
-    <img class="project-thumb" src="assets/img/proto22.png" width ="auto" alt="Project 2 thumbnail">
+    <img class="project-thumb" src="assets/img/proto22.png" alt="Project 3 thumbnail">
     <div class="project-body">
-      <h3 class="project-title">Project Title #3</h3>
-      <p class="project-desc">Telescope mount tracking retrofit</p>
+      <h3 class="project-title">Telescope Mount Tracking Retrofit</h3>
+      <p class="project-desc">Modernization of a reflector telescope for motorized tracking.</p>
       <div class="project-tags">
         <span class="project-tag">MATLAB</span>
         <span class="project-tag">Simulation</span>
       </div>
     </div>
-    
   </a>
 
-   <a class="project-card" href="https://eliasreyess.github.io/Telescope-mount-tracking-retrofit-/">
-    <img class="project-thumb" src="assets/img/proto22.png" width ="auto" alt="Project 2 thumbnail">
+  <a class="project-card" href="https://eliasreyess.github.io/Telescope-mount-tracking-retrofit-/">
+    <img class="project-thumb" src="assets/img/proto22.png" alt="Project 4 thumbnail">
     <div class="project-body">
-      <h3 class="project-title">Project Title #3</h3>
-      <p class="project-desc">Telescope mount tracking retrofit</p>
+      <h3 class="project-title">Telescope Control Electronics</h3>
+      <p class="project-desc">Wireless stepper-based control system for polar and declination axes.</p>
       <div class="project-tags">
-        <span class="project-tag">MATLAB</span>
-        <span class="project-tag">Simulation</span>
+        <span class="project-tag">Embedded Systems</span>
+        <span class="project-tag">RF</span>
       </div>
     </div>
   </a>

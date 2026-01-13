@@ -11,10 +11,49 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
 **Email:** ereyesgo@gmu.edu  
 **Phone:** (540) 481-5207
 
+## Education
+
+**George Mason University** — Fairfax, VA  
+**B.S. Mechanical Engineering** (Jan 2025 – Present)  
+- RISE Scholar (Summer 2025)
+
+**Northern Virginia Community College** — Annandale, VA  
+**A.S. Engineering** (Dec 2024)  
+- NOVA CORE Scholar  
+- S-STEM Scholar (Spring 2024 Cohort)  
+- CCAMPIS work-study  
+- COVID-19 vaccination campaign volunteer  
+
+---
+
+## Work Experience
+
+**RISE Undergraduate Researcher** — Fairfax, VA (Jan 2025 – May 2025)  
+**Motility Induced Phase Separation and Chemotaxis for Swarm Payload Transport**  
+- Developed an agent-based model in NetLogo to simulate swarm robotics behavior using Vicsek alignment, chemotactic gradients, and MIPS  
+
+**Fabrication Lab Intern** — Manassas, VA (Aug 2024 – Dec 2024)  
+**Northern Virginia Community College**  
+- Calibrated and maintained laser cutting equipment  
+- Assisted with material preparation, job setup, and job execution  
+- Supported supervision and training of other students  
+
+**Engineering Intern** — Fairfax, VA (Summer 2024)  
+**Fairfax Water**  
+- Recorded operational data from SCADA dashboards across multiple facilities  
+- Supported data analysis for an EPA lead reduction initiative  
+- Performed walk-through inspections of pump stations  
+- Assisted with preventive maintenance of facility sensors  
+
+**Quality Control Foreman** — Largo, MD (Apr 2019 – Dec 2021)  
+**Cleveland Construction Inc.**  
+- Scheduled repair work and supervised QC crews to meet contract specifications  
+- Ordered materials and planned distribution to maintain steady workflow  
+- Served as point of contact with county inspectors  
 ---
 
 ## Projects
-
+Welcome to my porfolio! here are some of the projects I have worked on during my time in school.
 <style>
   .projects-grid{
     display:grid;

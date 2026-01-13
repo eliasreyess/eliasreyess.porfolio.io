@@ -114,14 +114,16 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
     </div>
   </a>
 
-  <a class="project-card" href="https://eliasreyess.github.io/Telescope-mount-tracking-retrofit-/">
-    <img class="project-thumb" src="assets/img/proto22.png" alt="Project 4 thumbnail">
+  <a class="project-card" href="https://eliasreyess.github.io/Autonomous-mobile-robot/">
+    <img class="project-thumb" src="assets/img/2.png" alt="Project 4 thumbnail">
     <div class="project-body">
-      <h3 class="project-title">Telescope Control Electronics</h3>
-      <p class="project-desc">Wireless stepper-based control system for polar and declination axes.</p>
+      <h3 class="project-title">Robotic design</h3>
+      <p class="project-desc">Autonomous cleaning robot capable of enviroment navigation</p>
       <div class="project-tags">
         <span class="project-tag">Embedded Systems</span>
-        <span class="project-tag">RF</span>
+         <span class="project-tag">Raspberi pi</span>
+         <span class="project-tag">LIDAR</span>
+        <span class="project-tag">ROS2</span>
       </div>
     </div>
   </a>

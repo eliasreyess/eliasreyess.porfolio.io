@@ -127,16 +127,15 @@ I have hands-on experience in **robotics, swarm dynamics, simulation, and fabric
       </div>
     </div>
   </a>
-  <a class="project-card" href="https://eliasreyess.github.io/Autonomous-mobile-robot/">
-    <img class="project-thumb" src="assets/img/2.png" alt="Project 4 thumbnail">
+  <a class="project-card" href="https://eliasreyess.github.io/Small-scale-wind-tunnel/">
+    <img class="project-thumb" src="assets/img/1.jpg" alt="Project 4 thumbnail">
     <div class="project-body">
-      <h3 class="project-title">Robotic design</h3>
-      <p class="project-desc">Autonomous cleaning robot capable of enviroment navigation</p>
+      <h3 class="project-title">Small scale wind tunnel</h3>
+      <p class="project-desc">Manufactured a small scale wind tunnel for flow visualization</p>
       <div class="project-tags">
-        <span class="project-tag">Embedded Systems</span>
-         <span class="project-tag">Raspberi pi</span>
-         <span class="project-tag">LIDAR</span>
-        <span class="project-tag">ROS2</span>
+        <span class="project-tag">Fluid dynamics</span>
+         <span class="project-tag">Boundary layer</span>
+         <span class="project-tag">Laminar flow</span>
       </div>
     </div>
   </a>

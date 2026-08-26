@@ -6,7 +6,7 @@ title: Elias A. Reyes — Engineering Portfolio
 # Elias A. Reyes — Engineering Portfolio
 
 Hi there! thank you for taking the time to review my site. I have hands-on experience in **robotics, swarm dynamics, simulation, and fabrication**.
-In this page you will find some of my academic acomplishments as well as work experience and some of my projects.
+In this page you will find some of my academic accomplishments, as well as work experience and some of my projects.
 
 **Alexandria, VA**  
 **Email:** ereyesgo@gmu.edu  
@@ -23,6 +23,10 @@ In this page you will find some of my academic acomplishments as well as work ex
 ---
 
 ## Work Experience
+
+
+**Summer intern** — Fairfax, VA (May 2026 2025 – Aug 2026)  
+**Collaborative Robotics, Autonomy, and Dynamics Lab (CRADL)**  
 
 **RISE Undergraduate Researcher** — Fairfax, VA (Jan 2025 – May 2025)  
 **Motility Induced Phase Separation and Chemotaxis for Swarm Payload Transport**  

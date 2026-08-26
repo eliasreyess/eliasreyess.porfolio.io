@@ -25,7 +25,7 @@ In this page you will find some of my academic accomplishments, as well as work 
 ## Work Experience
 
 
-**Summer intern** — Fairfax, VA (May 2026 2025 – Aug 2026)  
+**Summer intern** — Fairfax, VA (May 2026 – Aug 2026)  
 **Collaborative Robotics, Autonomy, and Dynamics Lab (CRADL)**  
 
 **RISE Undergraduate Researcher** — Fairfax, VA (Jan 2025 – May 2025)  

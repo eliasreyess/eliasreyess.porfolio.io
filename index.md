@@ -117,6 +117,21 @@ Welcome to my porfolio! here are some of the projects I have worked on during my
       </div>
     </div>
   </a>
+  
+<div class="projects-grid">
+
+  <a class="project-card" href="https://eliasreyess.github.io/Cooling-plate-design/">
+    <img class="project-thumb" src="assets/img/IMG_0597.jpeg" alt="Project 2 thumbnail">
+    <div class="project-body">
+      <h3 class="project-title">Cooling Plate Design</h3>
+      <p class="project-desc">Design, manufacture and testing of a cooling plate.</p>
+      <div class="project-tags">
+        <span class="project-tag">Heat Transfer</span>
+        <span class="project-tag">Conduction / Convection</span>
+        <span class="project-tag">Thermal Mannagement</span>
+      </div>
+    </div>
+  </a>
 
   <a class="project-card" href="https://eliasreyess.github.io/Two-stage-gearbox-desing/">
     <img class="project-thumb" src="assets/demo_trimmed.gif" alt="Project 2 thumbnail">

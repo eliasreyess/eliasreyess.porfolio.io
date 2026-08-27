@@ -117,6 +117,20 @@ Welcome to my portfolio! here are some of the projects I have worked on during m
       </div>
     </div>
   </a>
+
+
+   <a class="project-card" href="https://eliasreyess.github.io/Self-balancing-autonomous-robot/">
+    <img class="project-thumb" src="assets/img/IMG_0506.JPEG" alt="Project 1 thumbnail">
+    <div class="project-body">
+      <h3 class="project-title">Self Balancing Autonomous Robot</h3>
+      <p class="project-desc">Developed a self balancing autonomous robot for a mechatronics class  </p>
+      <div class="project-tags">
+        <span class="project-tag">PID / Controls</span>
+        <span class="project-tag">Autonomous Nav</span>
+        <span class="project-tag">C++</span>
+      </div>
+    </div>
+  </a>
   
 
   <a class="project-card" href="https://eliasreyess.github.io/Cooling-plate-design/">

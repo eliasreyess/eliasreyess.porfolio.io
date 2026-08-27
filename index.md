@@ -43,7 +43,7 @@ In this page you will find some of my academic accomplishments, as well as work 
 ---
 
 ## Projects & Research 
-Welcome to my porfolio! here are some of the projects I have worked on during my time in school.
+Welcome to my portfolio! here are some of the projects I have worked on during my time in school.
 <style>
   .projects-grid{
     display:grid;
@@ -118,7 +118,6 @@ Welcome to my porfolio! here are some of the projects I have worked on during my
     </div>
   </a>
   
-<div class="projects-grid">
 
   <a class="project-card" href="https://eliasreyess.github.io/Cooling-plate-design/">
     <img class="project-thumb" src="assets/img/IMG_0597.jpeg" alt="Project 2 thumbnail">

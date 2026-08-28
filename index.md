@@ -120,7 +120,7 @@ Welcome to my portfolio! here are some of the projects I have worked on during m
 
 
   
-  <div class="projects-grid">
+  
 
   <a class="project-card" href="https://eliasreyess.github.io/ROBOGAME-portfolio-/">
     <img class="project-thumb" src="Screenshot from 2026-08-27 22-25-04.png" alt="Project 1 thumbnail">

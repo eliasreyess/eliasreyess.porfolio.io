@@ -123,7 +123,7 @@ Welcome to my portfolio! here are some of the projects I have worked on during m
   
 
   <a class="project-card" href="https://eliasreyess.github.io/ROBOGAME-portfolio-/">
-    <img class="project-thumb" src="Screenshot from 2026-08-27 22-25-04.png" alt="Project 1 thumbnail">
+    <img class="project-thumb" src="assets/img/Screenshot from 2026-08-27 22-25-04.png" alt="Project 1 thumbnail">
     <div class="project-body">
       <h3 class="project-title">ROBOGAME ROS2 Overhaul</h3>
       <p class="project-desc">Implemented ROS2 on a platform for autonomous robot testing.</p>
